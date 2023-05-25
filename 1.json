@@ -1,0 +1,91 @@
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "external_url": "https://openseacreatures.io/3",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+  "name": "Test Token",
+  "attributes": [
+    {
+      "trait_type": "Project Name",
+      "value": "Minna's forest"
+    },
+    {
+      "trait_type": "Project Code",
+      "value": "P-12345678"
+    },
+    {
+      "trait_type": "Project Application Number",
+      "value": "P12345"
+    },
+    {
+      "trait_type": "Project Status",
+      "value": "Before application"
+    },
+    {
+      "trait_type": "Project Credit",
+      "value": "J-Credit"
+    },
+    {
+      "trait_type": "Project Certification",
+      "value": "J-Credit Certification committee"
+    },
+    {
+      "trait_type": "Monitoring Cycle Code",
+      "value": "MC-0123456"
+    },
+    {
+      "trait_type": "Monitoring Cycle Period",
+      "value": "2024-2026"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Purchase Volume",
+      "value": 1000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Credit Volume",
+      "value": 1200
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Whole Estimated Volume",
+      "value": 100000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Whole Actual Volume",
+      "value": 90000
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Whole Estimated Volume",
+      "value": 100000
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Performance",
+      "value": 90
+    },
+    {
+      "trait_type": "Credit Number",
+      "value": "JC-400-000-004-625"
+    },
+    {
+      "trait_type": "NFT Status",
+      "value": "Valid"
+    },
+    {
+      "trait_type": "Credit attached",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Valid Period",
+      "value": "8 years"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Expired Date",
+      "value": 1546360800
+    }
+  ]
+}
