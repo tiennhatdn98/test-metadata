@@ -2,6 +2,7 @@
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
   "external_url": "https://openseacreatures.io/3",
   "image": "http://54.65.62.169:3003/?color=pink",
+  "animation_url": "http://54.65.62.169:3003/?color=pink",
   "name": "Test Token",
   "attributes": [
     {
