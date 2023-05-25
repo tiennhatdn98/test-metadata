@@ -6,59 +6,72 @@
   "attributes": [
     {
       "trait_type": "Project Name",
+      "display_type": "string",
       "value": "Minna's forest"
     },
     {
       "trait_type": "Project Code",
+      "display_type": "string",
       "value": "P-12345678"
     },
     {
       "trait_type": "Project Application Number",
+      "display_type": "string",
       "value": "P12345"
     },
     {
       "trait_type": "Project Status",
+      "display_type": "string",
       "value": "Before application"
     },
     {
       "trait_type": "Project Credit",
+      "display_type": "string",
       "value": "J-Credit"
     },
     {
       "trait_type": "Project Certification",
+      "display_type": "string",
       "value": "J-Credit Certification committee"
     },
     {
       "trait_type": "Monitoring Cycle Code",
+      "display_type": "string",
       "value": "MC-0123456"
     },
     {
       "trait_type": "Monitoring Cycle Period",
+      "display_type": "string",
       "value": "2024-2026"
     },
     {
       "display_type": "number",
       "trait_type": "Purchase Volume",
+      "max_value": null,
       "value": 1000
     },
     {
       "display_type": "number",
       "trait_type": "Credit Volume",
+      "max_value": null,
       "value": 1200
     },
     {
       "display_type": "number",
       "trait_type": "Whole Estimated Volume",
+      "max_value": null,
       "value": 100000
     },
     {
       "display_type": "number",
       "trait_type": "Whole Actual Volume",
+      "max_value": null,
       "value": 90000
     },
     {
       "display_type": "number",
       "trait_type": "Whole Estimated Volume",
+      "max_value": null,
       "value": 100000
     },
     {
@@ -68,24 +81,28 @@
     },
     {
       "trait_type": "Credit Number",
+      "display_type": "string",
       "value": "JC-400-000-004-625"
     },
     {
       "trait_type": "NFT Status",
+      "display_type": "string",
       "value": "Valid"
     },
     {
       "trait_type": "Credit attached",
+      "display_type": "string",
       "value": "Yes"
     },
     {
       "trait_type": "Valid Period",
+      "display_type": "string",
       "value": "8 years"
     },
     {
       "display_type": "date",
       "trait_type": "Expired Date",
-      "value": 1546360800
+      "value": 1685012291
     }
   ]
 }
