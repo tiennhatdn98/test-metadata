@@ -1,0 +1,72 @@
+{
+  "description": "A funny tree",
+  "external_url": "https://openseacreatures.io/3",
+  "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b4/Oak_JE14.png",
+  "name": "Tree",
+  "attributes": [
+    {
+      "trait_type": "original shirt",
+      "value": "collared shirt white",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original background",
+      "value": "red",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original type",
+      "value": "plain mfer",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original eyes",
+      "value": "eye mask",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original headphones",
+      "value": "white headphones",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original smoke",
+      "value": "cig black",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    },
+    {
+      "trait_type": "original 4:20 watch",
+      "value": "oyster silver",
+      "display_type": null,
+      "max_value": null,
+      "trait_count": 0,
+      "order": null
+    }
+  ]
+}
