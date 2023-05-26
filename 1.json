@@ -5,6 +5,16 @@
   "name": "Test Token",
   "attributes": [
     {
+      "trait_type": "Organization Name",
+      "display_type": "string",
+      "value": "Owase city"
+    },
+    {
+      "trait_type": "Organization Code",
+      "display_type": "string",
+      "value": "ORG-123456"
+    },
+    {
       "trait_type": "Project Name",
       "display_type": "string",
       "value": "Minna's forest"
