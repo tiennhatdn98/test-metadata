@@ -1,31 +1,36 @@
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "description": "Project - Description",
   "external_url": "https://openseacreatures.io/3",
   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/bd/44/e3/caption.jpg?w=600&h=400&s=1",
-  "name": "Test Token",
+  "name": "Project 1#1",
   "attributes": [
     {
       "trait_type": "Organization Name",
       "display_type": "string",
-      "value": "Owase city"
+      "value": "Organization A"
     },
     {
       "trait_type": "Organization Code",
       "display_type": "string",
-      "value": "ORG-123456"
+      "value": "ORG-001"
     },
     {
       "trait_type": "Project Name",
       "display_type": "string",
-      "value": "Minna's forest"
+      "value": "Project 1"
     },
     {
       "trait_type": "Project Code",
       "display_type": "string",
-      "value": "P-12345678"
+      "value": "P-001"
     },
     {
       "trait_type": "Project Application Number",
+      "display_type": "string",
+      "value": "12345678"
+    },
+    {
+      "trait_type": "Project Number",
       "display_type": "string",
       "value": "P12345"
     },
@@ -35,19 +40,19 @@
       "value": "Before application"
     },
     {
-      "trait_type": "Project Credit",
+      "trait_type": "Credit Name",
       "display_type": "string",
       "value": "J-Credit"
     },
     {
-      "trait_type": "Project Certification",
+      "trait_type": "Certification Body",
       "display_type": "string",
       "value": "J-Credit Certification committee"
     },
     {
       "trait_type": "Monitoring Cycle Code",
       "display_type": "string",
-      "value": "MC-0123456"
+      "value": "MC-1234"
     },
     {
       "trait_type": "Monitoring Cycle Period",
@@ -55,34 +60,40 @@
       "value": "2024-2026"
     },
     {
+      "trait_type": "Purchased Volume",
       "display_type": "number",
-      "trait_type": "Purchase Volume",
-      "max_value": null,
-      "value": 1000
+      "max_value": 100,
+      "value": 40
     },
     {
+      "trait_type": "Credit Volume (estimated)",
       "display_type": "number",
-      "trait_type": "Credit Volume",
       "max_value": null,
       "value": 1200
     },
     {
+      "trait_type": "Credit Volume (actual)",
       "display_type": "number",
+      "max_value": null,
+      "value": 1200
+    },
+    {
       "trait_type": "Whole Estimated Volume",
+      "display_type": "number",
       "max_value": null,
       "value": 100000
     },
     {
-      "display_type": "number",
       "trait_type": "Whole Actual Volume",
+      "display_type": "number",
       "max_value": null,
       "value": 90000
     },
     {
+      "trait_type": "Total Estimted Volume",
       "display_type": "number",
-      "trait_type": "Whole Estimated Volume",
-      "max_value": null,
-      "value": 100000
+      "max_value": 100,
+      "value": 90
     },
     {
       "display_type": "boost_percentage",
@@ -102,17 +113,17 @@
     {
       "trait_type": "Credit attached",
       "display_type": "string",
-      "value": "Yes"
-    },
-    {
-      "trait_type": "Valid Period",
-      "display_type": "string",
-      "value": "8 years"
+      "value": "YES"
     },
     {
       "display_type": "date",
       "trait_type": "Expired Date",
       "value": 1685012291
+    },
+    {
+      "trait_type": "Valid Period",
+      "display_type": "string",
+      "value": "8 years"
     }
   ]
 }
