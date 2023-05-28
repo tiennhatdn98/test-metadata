@@ -20,7 +20,17 @@
       "value": "Project 1"
     },
     {
-      "trait_type": "Project Register Number",
+      "trait_type": "Project Code",
+      "display_type": "string",
+      "value": "P-001"
+    },
+    {
+      "trait_type": "Project Application Number",
+      "display_type": "string",
+      "value": "001"
+    },
+    {
+      "trait_type": "Project Number",
       "display_type": "string",
       "value": "P001"
     },
@@ -40,6 +50,11 @@
       "value": "J-Credit Certification committee"
     },
     {
+      "trait_type": "Monitoring Cycle Code",
+      "display_type": "string",
+      "value": "P001-MC001"
+    },
+    {
       "trait_type": "Monitoring Cycle Period",
       "display_type": "string",
       "value": "2024-2026"
@@ -54,16 +69,28 @@
       "trait_type": "Credit Volume (estimated)",
       "display_type": "number",
       "max_value": null,
-      "value": 90
+      "value": 1200
     },
     {
       "trait_type": "Credit Volume (actual)",
       "display_type": "number",
       "max_value": null,
-      "value": 100
+      "value": 1200
     },
     {
-      "trait_type": "Total Estimated Volume",
+      "trait_type": "Whole Estimated Volume",
+      "display_type": "number",
+      "max_value": null,
+      "value": 100000
+    },
+    {
+      "trait_type": "Whole Actual Volume",
+      "display_type": "number",
+      "max_value": null,
+      "value": 90000
+    },
+    {
+      "trait_type": "Total Estimted Volume",
       "display_type": "number",
       "max_value": 100,
       "value": 90
@@ -74,14 +101,29 @@
       "value": 90
     },
     {
-      "trait_type": "Valid Period",
+      "trait_type": "Credit Number",
       "display_type": "string",
-      "value": "8 years"
+      "value": "JC-400-000-004-625"
+    },
+    {
+      "trait_type": "NFT Status",
+      "display_type": "string",
+      "value": "Valid"
+    },
+    {
+      "trait_type": "Credit attached",
+      "display_type": "string",
+      "value": "YES"
     },
     {
       "display_type": "date",
       "trait_type": "Expired Date",
       "value": 1685012291
+    },
+    {
+      "trait_type": "Valid Period",
+      "display_type": "string",
+      "value": "8 years"
     }
   ]
 }

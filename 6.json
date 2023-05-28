@@ -2,37 +2,37 @@
   "description": "Project - Description",
   "external_url": "https://openseacreatures.io/3",
   "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/bd/44/e3/caption.jpg?w=600&h=400&s=1",
-  "name": "Project 2#3",
+  "name": "Project 3#6",
   "attributes": [
     {
       "trait_type": "Organization Name",
       "display_type": "string",
-      "value": "Organization A"
+      "value": "Organization B"
     },
     {
       "trait_type": "Organization Code",
       "display_type": "string",
-      "value": "ORG-001"
+      "value": "ORG-002"
     },
     {
       "trait_type": "Project Name",
       "display_type": "string",
-      "value": "Project 2"
+      "value": "Project 3"
     },
     {
       "trait_type": "Project Code",
       "display_type": "string",
-      "value": "P-002"
+      "value": "P-003"
     },
     {
       "trait_type": "Project Application Number",
       "display_type": "string",
-      "value": "002"
+      "value": "003"
     },
     {
       "trait_type": "Project Number",
       "display_type": "string",
-      "value": "P002"
+      "value": "P003"
     },
     {
       "trait_type": "Project Status",
@@ -52,7 +52,7 @@
     {
       "trait_type": "Monitoring Cycle Code",
       "display_type": "string",
-      "value": "P002-MC001"
+      "value": "P003-MC001"
     },
     {
       "trait_type": "Monitoring Cycle Period",

@@ -27,12 +27,12 @@
     {
       "trait_type": "Project Application Number",
       "display_type": "string",
-      "value": "12345678"
+      "value": "001"
     },
     {
       "trait_type": "Project Number",
       "display_type": "string",
-      "value": "P12345"
+      "value": "P001"
     },
     {
       "trait_type": "Project Status",
@@ -52,7 +52,7 @@
     {
       "trait_type": "Monitoring Cycle Code",
       "display_type": "string",
-      "value": "MC-1234"
+      "value": "P001-MC001"
     },
     {
       "trait_type": "Monitoring Cycle Period",
