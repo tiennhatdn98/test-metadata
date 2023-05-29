@@ -67,7 +67,8 @@
     },
     {
       "trait_type": "Actual Credit Volume",
-      "display_type": "string",
+      "display_type": "number",
+      "max_value": 90000,
       "value": "1200"
     },
     {
