@@ -63,7 +63,7 @@
       "trait_type": "Purchased Volume",
       "display_type": "number",
       "max_value": 100,
-      "value": 40
+      "value": 100000
     },
     {
       "trait_type": "Credit Volume (estimated)",
@@ -78,22 +78,16 @@
       "value": 1200
     },
     {
-      "trait_type": "Whole Estimated Volume",
+      "trait_type": "Total Estimated Volume",
       "display_type": "number",
       "max_value": null,
       "value": 100000
     },
     {
-      "trait_type": "Whole Actual Volume",
+      "trait_type": "Total Actual Volume",
       "display_type": "number",
       "max_value": null,
       "value": 90000
-    },
-    {
-      "trait_type": "Total Estimted Volume",
-      "display_type": "number",
-      "max_value": 100,
-      "value": 90
     },
     {
       "display_type": "boost_percentage",
