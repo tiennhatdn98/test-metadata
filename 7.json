@@ -66,27 +66,18 @@
       "value": 100
     },
     {
-      "trait_type": "Credit Volume (estimated)",
-      "display_type": "number",
-      "max_value": null,
-      "value": 1200
-    },
-    {
-      "trait_type": "Credit Volume (actual)",
-      "display_type": "number",
-      "max_value": null,
+      "trait_type": "Actual Credit Volume",
+      "display_type": "string",
       "value": 1200
     },
     {
       "trait_type": "Total Estimated Volume",
-      "display_type": "number",
-      "max_value": null,
+      "display_type": "string",
       "value": 100000
     },
     {
       "trait_type": "Total Actual Volume",
-      "display_type": "number",
-      "max_value": null,
+      "display_type": "string",
       "value": 90000
     },
     {
