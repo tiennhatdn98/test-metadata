@@ -68,17 +68,17 @@
     {
       "trait_type": "Actual Credit Volume",
       "display_type": "string",
-      "value": 1200
+      "value": "1200"
     },
     {
       "trait_type": "Total Estimated Volume",
       "display_type": "string",
-      "value": 100000
+      "value": "100000"
     },
     {
       "trait_type": "Total Actual Volume",
       "display_type": "string",
-      "value": 90000
+      "value": "90000"
     },
     {
       "display_type": "boost_percentage",
