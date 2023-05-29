@@ -62,8 +62,8 @@
     {
       "trait_type": "Purchased Volume",
       "display_type": "number",
-      "max_value": 100,
-      "value": 100000
+      "max_value": 100000,
+      "value": 100
     },
     {
       "trait_type": "Credit Volume (estimated)",
