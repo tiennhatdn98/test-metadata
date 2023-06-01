@@ -1,7 +1,8 @@
 {
   "description": "Project - Description",
   "external_url": "https://openseacreatures.io/3",
-  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/bd/44/e3/caption.jpg?w=600&h=400&s=1",
+  "image": "https://sinra-mgmt.bti-web.com/image/",
+  "animation_url": "https://sinra-mgmt.bti-web.com/image/",
   "name": "Project 2#3",
   "attributes": [
     {
