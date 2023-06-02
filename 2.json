@@ -1,7 +1,7 @@
 {
-  "description": "Project - Description",
+  "description": "Test image and animation",
   "external_url": "https://openseacreatures.io/3",
-  "image": "https://sinra-mgmt.bti-web.com/image/",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
   "animation_url": "https://sinra-mgmt.bti-web.com/image/",
   "name": "Project 1#2",
   "attributes": [
