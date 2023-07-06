@@ -1,9 +1,9 @@
 {
-  "description": "Project - Description",
+  "description": "- This NFT represents the image of a work of art and bears a present or future right to request the transfer of a Carbon Credit.\\n- If the Carbon Credit represented by the NFT has not yet been certified by the certification bodies, the holder of said NFT shall have the right to request that the Company transfer said Carbon Credit to the name of said holder, subject to the completion of a certification of said Carbon Credit by the certification bodies. (NFT attributes \\\"Status\\\" is \\\"project certified(credit attached)\\\")\\n- A right to request the transfer of a Carbon Credit represented by the NFT has an expiration date.\\n- The NFT, the images represented by the NFT, and other copyrighted works of the Company are provided under the terms of the CC BY-NC-SA 4.0 license.\\n\\nLicense: [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)\\n\\n- You agree to the following terms of use and disclaimer for the handling of the NFT.\\n\\nTerms of Use: [https://files.sinra.app/docs/Terms_of_Use_en.pdf](https://files.sinra.app/docs/Terms_of_Use_en.pdf)\\n\\nDisclaimer: [https://files.sinra.app/docs/Disclaimer_en.pdf](https://files.sinra.app/docs/Disclaimer_en.pdf)",
   "external_url": "https://openseacreatures.io/3",
   "image": "https://sinra-mgmt.bti-web.com/image/",
   "animation_url": "https://sinra-mgmt.bti-web.com/image/",
-  "name": "Project 2#3",
+  "name": "Test 2#3",
   "attributes": [
     {
       "trait_type": "Organization Name",
